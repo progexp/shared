@@ -1,1 +1,1 @@
-export * from './ValidationRegExps';
+export * from './validation-reg.exps';
